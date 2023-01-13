@@ -1,9 +1,9 @@
 {
+    "homepage": "http://subh3ndu.github.io/React-Advanced-Todo/",
     "name": "react-todo",
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://subh3ndu.github.io/React-Advanced-Todo/",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
